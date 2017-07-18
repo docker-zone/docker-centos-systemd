@@ -6,7 +6,7 @@ based on https://github.com/docker-library/docs/tree/master/centos#dockerfile-fo
 
  - [`7`, `latest` (7/Dockerfile)](https://github.com/docker-zone/docker-centos-systemd/blob/centos7/7/Dockerfile)
  
-Subscribe to project updates by watching the [dingwenxiang0/docker-centos-systemd GitHub repo](https://github.com/docker-zone/docker-centos-systemd/).
+Subscribe to project updates by watching the [docker-centos-systemd GitHub repo](https://github.com/docker-zone/docker-centos-systemd/).
  
 # Get this image
 
